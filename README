@@ -1,0 +1,8 @@
+PyCONAU 2016 Code
+===================
+
+This code complements the talk "Working with Real Time Data Streams for IoT Devices"
+given by Lachlan Blackhall at PyCONAU 2016 in Melbourne Australia.
+
+A basic implementation of both a moving average filter and a Kalman filter are contained
+and the demonstration can be run by executing filtering_demo.py
